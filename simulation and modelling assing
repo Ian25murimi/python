@@ -1,0 +1,8 @@
+#program to determine legibility of voting
+#and display appropriate message
+age = 18
+if age >17
+print ("legible to vote")
+
+else:
+print ("illegible to vote")
